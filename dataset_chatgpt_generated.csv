@@ -1,0 +1,101 @@
+ID,Excerpt,SY1,SY2,CO1,CO2,LQ Code
+1,The system must support multiple user roles.,system,multiple user roles,support,NULL,MLN
+2,Ensure that the software can process data efficiently.,software,data,process,NULL,INC
+3,The application should manage user preferences effectively.,application,user preferences,manage,NULL,MLN
+4,Define a mechanism for secure user authentication.,mechanism,secure user authentication,Define,NULL,INC
+5,User input should be validated before processing.,User input,validated,before processing,NULL,MLN
+6,The system must store user data securely.,system,user data,store,securely,AMB
+7,Develop a user-friendly interface for better user experience.,interface,user-friendly,Develop,NULL,INC
+8,Ensure that the software can handle large datasets.,software,large datasets,handle,NULL,MLN
+9,Implement a robust error-handling mechanism.,Implement,robust error-handling,mechanism,NULL,INC
+10,Define the process for user account recovery.,process,user account recovery,Define,NULL,INC
+11,The system must generate accurate reports.,system,generate accurate reports,NULL,NULL,RDC
+12,User data should be encrypted during transmission.,User data,encrypted,during transmission,NULL,MLN
+13,Implement a responsive design for mobile devices.,Implement,responsive design,mobile devices,NULL,INC
+14,Define a protocol for secure data transfer.,protocol,secure data transfer,Define,NULL,INC
+15,The application should provide real-time updates.,application,real-time updates,provide,NULL,INC
+16,Ensure that the system is compatible with major browsers.,system,compatible,major browsers,NULL,MLN
+17,User interactions should be logged for auditing purposes.,User interactions,logged,for auditing purposes,NULL,MLN
+18,Define the criteria for user access levels.,criteria,user access levels,Define,NULL,INC
+19,The software should adapt to changing user requirements.,software,changing user requirements,adapt,NULL,MLN
+20,Implement a feature for automatic data backup.,Implement,automatic data backup,feature,NULL,INC
+21,User data should be anonymized for privacy reasons.,User data,anonymized,for privacy reasons,NULL,MLN
+22,Ensure that the system supports multi-language interfaces.,system,supports,multi-language interfaces,NULL,MLN
+23,Define the procedure for handling system failures.,procedure,handling system failures,Define,NULL,INC
+24,The application should provide a seamless user onboarding process.,application,seamless user onboarding,provide,NULL,INC
+25,User profiles must include relevant information.,User profiles,include relevant information,NULL,NULL,RDC
+26,Implement two-factor authentication for enhanced security.,Implement,two-factor authentication,enhanced security,NULL,INC
+27,Define a mechanism for user feedback collection.,mechanism,user feedback collection,Define,NULL,INC
+28,The system should be scalable to accommodate future growth.,system,scalable,future growth,NULL,MLN
+29,User data should be backed up regularly.,User data,backed up,regularly,NULL,MLN
+30,Implement a feature for customizable user dashboards.,Implement,customizable user dashboards,feature,NULL,INC
+31,Define the criteria for prioritizing user requests.,criteria,prioritizing user requests,Define,NULL,INC
+32,The software must handle concurrent user sessions efficiently.,software,concurrent user sessions,handle,NULL,MLN
+33,User input validation should follow industry best practices.,User input validation,follow industry best practices,NULL,NULL,RDC
+34,Ensure that the system complies with data protection regulations.,system,complies with,data protection regulations,NULL,MLN
+35,Implement a secure mechanism for password recovery.,Implement,secure mechanism,password recovery,NULL,INC
+36,User data should be accessible only to authorized personnel.,User data,accessible only to,authorized personnel,NULL,MLN
+37,Define a protocol for secure file uploads.,protocol,secure file uploads,Define,NULL,INC
+38,The system should provide role-based access control.,system,provide,role-based access control,NULL,MLN
+39,User preferences should persist across sessions.,User preferences,persist across sessions,NULL,NULL,RDC
+40,Implement a feature for real-time collaboration.,Implement,real-time collaboration,feature,NULL,INC
+41,Define the criteria for user account deactivation.,criteria,user account deactivation,Define,NULL,INC
+42,The application should support both online and offline modes.,application,supports,online and offline modes,NULL,MLN
+43,User data should be synchronized across devices.,User data,synchronized across devices,NULL,NULL,RDC
+44,Implement a feature for user role customization.,Implement,user role customization,feature,NULL,INC
+45,Ensure that the system is resistant to common security threats.,system,resistant to,common security threats,NULL,MLN
+46,Define a process for data retention and deletion.,process,data retention and deletion,Define,NULL,INC
+47,The software should provide clear error messages for users.,software,provide,clear error messages,NULL,MLN
+48,User interactions should be recorded for analysis purposes.,User interactions,recorded,for analysis purposes,NULL,MLN
+49,Implement a feature for user profile picture upload.,Implement,user profile picture upload,feature,NULL,INC
+50,Define a protocol for secure API communication.,protocol,secure API communication,Define,NULL,INC
+51,The system should prevent unauthorized access to sensitive data.,system,prevent,unauthorized access to sensitive data,NULL,MLN
+52,User data should be encrypted at rest for added security.,User data,encrypted at rest,for added security,NULL,MLN
+53,Implement a feature for user notification preferences.,Implement,user notification preferences,feature,NULL,INC
+54,Define the process for user account suspension.,process,user account suspension,Define,NULL,INC
+55,The application should provide a search functionality for users.,application,provides,search functionality,NULL,MLN
+56,User profiles must include a unique identifier.,User profiles,include a unique identifier,NULL,NULL,RDC
+57,Implement a feature for user activity tracking.,Implement,user activity tracking,feature,NULL,INC
+58,Define the criteria for user account recovery.,criteria,user account recovery,Define,NULL,INC
+59,The system should encrypt communication between client and server.,system,encrypts,communication between client and server,NULL,MLN
+60,User input validation should be performed on the server side.,User input validation,performed on the server side,NULL,NULL,RDC
+61,Implement a feature for user password complexity requirements.,Implement,user password complexity requirements,feature,NULL,INC
+62,Define the process for user data export.,process,user data export,Define,NULL,INC
+63,The software should provide a user-friendly interface.,software,provides,user-friendly interface,NULL,MLN
+64,User interactions should be logged for security auditing.,User interactions,logged,for security auditing,NULL,MLN
+65,Ensure that the system supports user roles and permissions.,system,supports,user roles and permissions,NULL,MLN
+66,Implement a feature for user profile picture customization.,Implement,user profile picture customization,feature,NULL,INC
+67,Define a protocol for secure data transmission.,protocol,secure data transmission,Define,NULL,INC
+68,User data should be securely erased upon account deletion.,User data,securely erased,upon account deletion,NULL,MLN
+69,Implement a feature for user role-based notifications.,Implement,user role-based notifications,feature,NULL,INC
+70,Define the criteria for user account lockout.,criteria,user account lockout,Define,NULL,INC
+71,The application should support seamless integration with third-party services.,application,supports,seamless integration with third-party services,NULL,MLN
+72,User preferences should be customizable for a personalized experience.,User preferences,customizable,personalized experience,NULL,MLN
+73,Ensure that the system logs user activities for compliance purposes.,system,logs,user activities for compliance purposes,NULL,MLN
+74,Implement a feature for user profile privacy settings.,Implement,user profile privacy settings,feature,NULL,INC
+75,Define a process for secure user authentication and authorization.,process,secure user authentication and authorization,Define,NULL,INC
+76,The software must validate user input to prevent security vulnerabilities.,software,validate user input,to prevent security vulnerabilities,NULL,MLN
+77,User data should be stored in a secure and encrypted format.,User data,stored in a secure and encrypted format,NULL,NULL,RDC
+78,Implement a feature for user account recovery through email verification.,Implement,user account recovery,email verification,NULL,INC
+79,Define the criteria for user access expiration.,criteria,user access expiration,Define,NULL,INC
+80,The system should provide a mechanism for user-generated content moderation.,system,provides,mechanism for user-generated content moderation,NULL,MLN
+81,User interactions should be recorded for user behavior analysis.,User interactions,recorded,for user behavior analysis,NULL,MLN
+82,Implement a feature for user notification preferences customization.,Implement,user notification preferences customization,feature,NULL,INC
+83,Define a protocol for secure user data sharing.,protocol,secure user data sharing,Define,NULL,INC
+84,The application should ensure data integrity during user transactions.,application,ensures,data integrity during user transactions,NULL,MLN
+85,User data should be anonymized to protect user privacy.,User data,anonymized,to protect user privacy,NULL,MLN
+86,Implement a feature for user feedback submission.,Implement,user feedback submission,feature,NULL,INC
+87,Define the process for user account reactivation.,process,user account reactivation,Define,NULL,INC
+88,The system should encrypt sensitive user data in transit.,system,encrypts,sensitive user data in transit,NULL,MLN
+89,User input validation should be consistent across all application modules.,User input validation,consistent across all application modules,NULL,NULL,RDC
+90,Implement a feature for user profile status updates.,Implement,user profile status updates,feature,NULL,INC
+91,Define the criteria for user account suspension and termination.,criteria,user account suspension and termination,Define,NULL,INC
+92,The software should support user-specific data filtering.,software,supports,user-specific data filtering,NULL,MLN
+93,User data should be deleted upon account closure.,User data,deleted,upon account closure,NULL,MLN
+94,Implement a feature for user role-based access control.,Implement,user role-based access control,feature,NULL,INC
+95,Define the process for secure user data migration.,process,secure user data migration,Define,NULL,INC
+96,The application should facilitate user-friendly error messages.,application,facilitates,user-friendly error messages,NULL,MLN
+97,User interactions should be logged for system performance analysis.,User interactions,logged,for system performance analysis,NULL,MLN
+98,Ensure that the system supports user preferences synchronization.,system,supports,user preferences synchronization,NULL,MLN
+99,Implement a feature for user account password expiration.,Implement,user account password expiration,feature,NULL,INC
+100,Define the criteria for user data retention and archiving.,criteria,user data retention and archiving,Define,NULL,INC
